@@ -1,3 +1,8 @@
+feel free to donate some etherum
+
+0x3A175E38ded079CA38f7d1Cd1B1f31446759162B
+
+
 # LeetCode解题
 
 #### Leetcode解题记录及每种问题具有代表性题目的归纳,由于Leetcode早已从150题步入到了现在的千题时代，笔者尽可能的在这里做一个优选，希望此项目可以帮助小伙伴们更快的掌握对应的知识点～
